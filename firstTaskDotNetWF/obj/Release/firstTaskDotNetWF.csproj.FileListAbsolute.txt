@@ -207,7 +207,6 @@ C:\FirstTaskDotNetMentoring\firstTaskDotNetWF\firstTaskDotNetWF\bin\Release\Syst
 C:\FirstTaskDotNetMentoring\firstTaskDotNetWF\firstTaskDotNetWF\bin\Release\System.Xml.XPath.dll
 C:\FirstTaskDotNetMentoring\firstTaskDotNetWF\firstTaskDotNetWF\bin\Release\System.Xml.XPath.XDocument.dll
 C:\FirstTaskDotNetMentoring\firstTaskDotNetWF\firstTaskDotNetWF\bin\Release\TestLib.dll
-C:\FirstTaskDotNetMentoring\firstTaskDotNetWF\firstTaskDotNetWF\bin\Release\TestLib.pdb
 C:\FirstTaskDotNetMentoring\firstTaskDotNetWF\firstTaskDotNetWF\obj\Release\firstTaskDotNetWF.csprojAssemblyReference.cache
 C:\FirstTaskDotNetMentoring\firstTaskDotNetWF\firstTaskDotNetWF\obj\Release\firstTaskDotNetWF.exe.config
 C:\FirstTaskDotNetMentoring\firstTaskDotNetWF\firstTaskDotNetWF\obj\Release\firstTaskDotNetWF.Form1.resources
